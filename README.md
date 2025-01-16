@@ -13,7 +13,7 @@
       align=left 
       margin=10 
       width=80
-    src=".github/assets/docker.png"
+    src=".github/assets/kub1.png"
     width="100"  
 />
 </p>
@@ -25,9 +25,28 @@
 
 ## Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [Leonardo.AI](https://app.leonardo.ai/image-generation)
-- PowerPoint
+<p>
+    <img 
+      align=left 
+    src=".github/assets/gpt.png"
+    width="20"  
+/>
+</p>
+
+ [ChatGPT](https://chat.openai.com/) 
+
+  <p>
+    <img 
+      align=left 
+    src=".github/assets/ppt.png"
+    width="20"  
+/>
+</p>
+
+ [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
+ 
+ [Leonardo.AI](https://app.leonardo.ai/image-generation)
 
 ## Prompts
 

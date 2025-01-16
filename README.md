@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="assets/kub.jpg">
+    <img width="100" src="assets/Kub.jpg">
 </p>
 
 
